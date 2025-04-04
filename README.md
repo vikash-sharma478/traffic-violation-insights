@@ -29,5 +29,10 @@ This project analyzes traffic violation data from New York City to find patterns
 ### Vehicle Body Types
 ![Top Body Types](top_body_types.png)
 
+## 🛡 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## 📬 Contact
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/vikash-sharma-284191230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br6MbwtyyRBid4X8rxz1TGw%3D%3D)
