@@ -21,6 +21,13 @@ This project analyzes traffic violation data from New York City to find patterns
 1. Clone this repository  
 2. Install required packages  
 3. Run `traffic_violations.py` to generate visualizations
+## 📊 Output Visualizations
+
+### Top Violation Codes
+![Top Violations](top_violations.png)
+
+### Vehicle Body Types
+![Top Body Types](top_body_types.png)
 
 ## 📬 Contact
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/vikash-sharma-284191230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br6MbwtyyRBid4X8rxz1TGw%3D%3D)
